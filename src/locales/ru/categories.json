@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1,
+    "name": "Глянцевые потолки",
+    "img": "/images/categories/glossy.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Матовые потолки",
+    "img": "/images/categories/matte.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Сатиновые потолки",
+    "img": "/images/categories/satin.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Фотопечать потолки",
+    "img": "/images/categories/photoprint.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Двухуровневые потолки",
+    "img": "/images/categories/two-level.jpg"
+  }
+]

@@ -1,0 +1,16 @@
+{
+  "calculator": "Calculator",
+  "area_label": "Suprafața (m²):",
+  "type_label": "Tip tavan:",
+  "glossy_option": "Lucios — 130₽/m²",
+  "matte_option": "Mat — 110₽/m²",
+  "satin_option": "Satinat — 120₽/m²",
+  "color_option": "Colorat — 150₽/m²",
+  "lights_label": "Număr de spoturi:",
+  "pipe_bypass": "Ocolirea țevii (buc)",
+  "total_price": "Preț total:",
+  "order_now": "Comandă acum",
+  "btn_work": "Cheamă măsurătorul",
+  "name": "Numele dvs.",
+  "phone_work": "Numărul de telefon"
+}

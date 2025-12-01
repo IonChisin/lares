@@ -1,0 +1,28 @@
+
+[
+  {
+    "id": 1,
+    "name": "Tavane lucioase",
+    "img": "/images/categories/glossy.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Tavane mate",
+    "img": "/images/categories/matte.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Tavane satin",
+    "img": "/images/categories/satin.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Imprimare foto",
+    "img": "/images/categories/photoprint.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Tavane cu două niveluri",
+    "img": "/images/categories/two-level.jpg"
+  }
+]

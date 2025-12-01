@@ -1,0 +1,14 @@
+[
+  { "id": "stereoscopic", "name": "Стереоскопические" },
+  { "id": "architecture", "name": "Архитектура" },
+  { "id": "kids", "name": "Детские" },
+  { "id": "animals", "name": "Животные" },
+  { "id": "flowers", "name": "Цветы" },
+  { "id": "nature", "name": "Природа" },
+  { "id": "transport", "name": "Транспорт" },
+  { "id": "fantasy", "name": "Фантастические" },
+  { "id": "art", "name": "Искусство" },
+  { "id": "various", "name": "Разные" },
+  { "id": "more-i-plyaji","name": "Море и пляжи"},
+  { "id": "city", "name": "Города" }
+]

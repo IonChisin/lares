@@ -1,0 +1,15 @@
+[
+  { "id": "architecture", "name": "Arhitectură" },
+  { "id": "stereoscopic", "name": "Stereoscopice" },
+  { "id": "kids", "name": "Copii" },
+  { "id": "animals", "name": "Animale" },
+  { "id": "flowers", "name": "Flori" },
+  { "id": "nature", "name": "Natură" },
+  { "id": "transport", "name": "Transport" },
+  { "id": "fantasy", "name": "Fantezie" },
+  { "id": "art", "name": "Artă" },
+  { "id": "various", "name": "Diverse" },
+  { "id": "more-i-plyaji","name": "Mare și plaje"},
+  { "id": "city", "name": "Orașe" }
+
+]
